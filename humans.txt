@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Burrows chris.burrows@gmail.com
 
 # THANKS
 
