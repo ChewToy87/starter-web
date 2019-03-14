@@ -14,3 +14,7 @@ whats the point
 ## Deployment
 
 adding some deployment shwa
+
+### CopyRight
+
+2019 git training
